@@ -1,0 +1,2 @@
+include iocparser/data/tlds
+include iocparser/data/extensions

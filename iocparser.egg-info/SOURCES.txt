@@ -1,6 +1,11 @@
+MANIFEST.in
 README.md
 setup.py
+iocparser/__init__.py
+iocparser/iocparser.py
 iocparser.egg-info/PKG-INFO
 iocparser.egg-info/SOURCES.txt
 iocparser.egg-info/dependency_links.txt
 iocparser.egg-info/top_level.txt
+iocparser/data/extensions
+iocparser/data/tlds
