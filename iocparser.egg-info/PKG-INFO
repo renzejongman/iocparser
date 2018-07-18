@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: iocparser
-Version: 1.0.11
+Version: 1.0.14
 Summary: scrapes IOCs from plaintext
 Home-page: https://github.com/renzejongman/iocparser
 Author: Renze Jongman
